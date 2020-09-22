@@ -6,4 +6,10 @@
 g++ --version
 gdb --version
 
+
+经过
+git add -A 
+git commit -m "add new file ...."
+git push(过程中要求github登陆)，登陆wqjian@VIP.163.com后顺利git完成。
+下面再操作一遍记录本段
 */
