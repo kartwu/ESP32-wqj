@@ -1,0 +1,9 @@
+/*
+20200922
+在C:下创建目录MinGW-W64,安装MinGW-W64. 
+设置环境变量，用户环境变量为MinGW-64中bin。
+重启计算机后，在VScode的Terminal中，Bash和Poweshell都能运行
+g++ --version
+gdb --version
+
+*/
