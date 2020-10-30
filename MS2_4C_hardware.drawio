@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T06:07:07.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="0PNKA7AYREaef0BMlYSf" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T06:24:09.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="UOxZozd_FdiDsmaVkjfe" version="13.8.7" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="WYhBp6qSRboD4L50h-0C-1" value="MS2_4C控制 platform(ESP32 two cores)" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
-          <mxGeometry x="699.9999999999999" y="560" width="400" height="50" as="geometry" />
+          <mxGeometry x="639.9999999999999" y="370" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WYhBp6qSRboD4L50h-0C-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;1&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Interface to&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Mecno&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;RS485&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Modbus slave&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="699.9999999999999" y="680" width="110" height="90" as="geometry" />
+        <mxCell id="WYhBp6qSRboD4L50h-0C-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Interface to&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Mecno&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;RS485&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Modbus slave&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#BEABFF;strokeColor=#FF6A4D;" vertex="1" parent="1">
+          <mxGeometry x="640" y="660" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WYhBp6qSRboD4L50h-0C-3" value="Mecnoservice&#xa;Grinding control&#xa;" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="705" y="816.5" width="105" height="40" as="geometry" />
+          <mxGeometry x="642.5" y="790" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WYhBp6qSRboD4L50h-0C-4" value="Genset&#xa;CAT 40kw" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="970" y="886.4999999999999" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WYhBp6qSRboD4L50h-0C-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WYhBp6qSRboD4L50h-0C-19" target="WYhBp6qSRboD4L50h-0C-4">
+        <mxCell id="WYhBp6qSRboD4L50h-0C-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WYhBp6qSRboD4L50h-0C-27" target="WYhBp6qSRboD4L50h-0C-4">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="580" y="896.5" as="sourcePoint" />
             <mxPoint x="980" y="720" as="targetPoint" />
@@ -37,48 +37,54 @@
             <mxPoint x="685" y="896.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WYhBp6qSRboD4L50h-0C-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WYhBp6qSRboD4L50h-0C-3" target="WYhBp6qSRboD4L50h-0C-7">
+        <mxCell id="WYhBp6qSRboD4L50h-0C-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WYhBp6qSRboD4L50h-0C-3" target="WYhBp6qSRboD4L50h-0C-7">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="751.25" y="876.5" as="sourcePoint" />
             <mxPoint x="695" y="906.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WYhBp6qSRboD4L50h-0C-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.845;exitY=1.088;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WYhBp6qSRboD4L50h-0C-3">
+        <mxCell id="WYhBp6qSRboD4L50h-0C-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.845;exitY=1.088;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WYhBp6qSRboD4L50h-0C-3" target="WYhBp6qSRboD4L50h-0C-8">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="793.75" y="866.5" as="sourcePoint" />
             <mxPoint x="880" y="880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="860" />
+              <mxPoint x="820" y="840" />
               <mxPoint x="880" y="890" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WYhBp6qSRboD4L50h-0C-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WYhBp6qSRboD4L50h-0C-2">
+        <mxCell id="WYhBp6qSRboD4L50h-0C-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WYhBp6qSRboD4L50h-0C-2" target="WYhBp6qSRboD4L50h-0C-3">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="793.75" y="866.5" as="sourcePoint" />
             <mxPoint x="755" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WYhBp6qSRboD4L50h-0C-19" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;2&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Interface to&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Genset&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;RS485&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Modbus slave&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="959.9999999999999" y="680" width="110" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="WYhBp6qSRboD4L50h-0C-20" value="Modbus Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="812" y="620" width="130" height="30" as="geometry" />
+          <mxGeometry x="660" y="530" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WYhBp6qSRboD4L50h-0C-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="877" y="660" as="sourcePoint" />
-            <mxPoint x="800" y="720" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="820" y="720" />
-            </Array>
+        <mxCell id="WYhBp6qSRboD4L50h-0C-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WYhBp6qSRboD4L50h-0C-20" target="WYhBp6qSRboD4L50h-0C-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="705" y="760" as="sourcePoint" />
+            <mxPoint x="705" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WYhBp6qSRboD4L50h-0C-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="877" y="660" as="sourcePoint" />
-            <mxPoint x="957" y="710" as="targetPoint" />
+        <mxCell id="WYhBp6qSRboD4L50h-0C-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WYhBp6qSRboD4L50h-0C-20" target="WYhBp6qSRboD4L50h-0C-27">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="745" y="580" as="sourcePoint" />
+            <mxPoint x="705" y="670" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WYhBp6qSRboD4L50h-0C-25" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;1&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Interface to&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Mecno&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;and Gensets&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="669.9999999999999" y="440" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WYhBp6qSRboD4L50h-0C-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="845" y="730" as="sourcePoint" />
+            <mxPoint x="845" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYhBp6qSRboD4L50h-0C-27" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Interface to&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Genset&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;RS485&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Modbus slave&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#BEABFF;strokeColor=#FF6A4D;" vertex="1" parent="1">
+          <mxGeometry x="930" y="660" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
