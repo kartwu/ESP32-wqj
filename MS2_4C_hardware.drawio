@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T03:49:48.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="sy5HLX8xXSmBfq7VM11j" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T06:36:15.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="KIgcL5jFoe4voA-6OGEH" version="13.8.8" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="MODgsHCSX48ksGeitlAM-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="610" width="490" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WYhBp6qSRboD4L50h-0C-1" value="MS2_4C控制 platform(ESP32 two cores)" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
-          <mxGeometry x="639.9999999999999" y="370" width="400" height="50" as="geometry" />
+          <mxGeometry x="560" y="370" width="600" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WYhBp6qSRboD4L50h-0C-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Interface to&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Grinding control&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Modbus slave&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#BEABFF;strokeColor=#FF6A4D;" parent="1" vertex="1">
           <mxGeometry x="640" y="660" width="110" height="70" as="geometry" />
@@ -92,209 +92,209 @@
         <mxCell id="WYhBp6qSRboD4L50h-0C-27" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Interface to&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Genset&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Modbus slave&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#BEABFF;strokeColor=#FF6A4D;" parent="1" vertex="1">
           <mxGeometry x="785" y="660" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-5" value="Byte&lt;br&gt;Status of motors" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-5" value="Byte&lt;br&gt;Status of motors" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="335" y="619.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-6" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-10" target="MODgsHCSX48ksGeitlAM-10">
+        <mxCell id="MODgsHCSX48ksGeitlAM-6" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-10" target="MODgsHCSX48ksGeitlAM-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="335" y="679.5" as="sourcePoint" />
             <mxPoint x="385" y="629.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-8" value="Byte&lt;br&gt;Status of Tractions" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-8" value="Byte&lt;br&gt;Status of Tractions" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="415" y="619.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-9" value="Byte&lt;br&gt;Status of General" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-9" value="Byte&lt;br&gt;Status of General" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="619.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-10" value="Byte&lt;br&gt;Status of Reserved" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-10" value="Byte&lt;br&gt;Status of Reserved" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="495" y="619.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-11" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-9" target="MODgsHCSX48ksGeitlAM-10">
+        <mxCell id="MODgsHCSX48ksGeitlAM-11" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-9" target="MODgsHCSX48ksGeitlAM-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="735" y="749.5" as="sourcePoint" />
             <mxPoint x="785" y="699.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-12" value="ReadOnly word&lt;br&gt;Status from sub-system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-12" value="ReadOnly word&lt;br&gt;Status from sub-system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="629.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-13" value="Byte&lt;br&gt;Status of motors" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-13" value="Byte&lt;br&gt;Status of motors" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="335" y="689.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-14" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-17" target="MODgsHCSX48ksGeitlAM-17">
+        <mxCell id="MODgsHCSX48ksGeitlAM-14" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-17" target="MODgsHCSX48ksGeitlAM-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="335" y="749.5" as="sourcePoint" />
             <mxPoint x="385" y="699.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-15" value="Byte&lt;br&gt;Status of Tractions" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-15" value="Byte&lt;br&gt;Status of Tractions" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="415" y="689.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-16" value="Byte&lt;br&gt;Status of General" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-16" value="Byte&lt;br&gt;Status of General" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="689.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-17" value="Byte&lt;br&gt;Status of Reserved" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-17" value="Byte&lt;br&gt;Status of Reserved" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="495" y="689.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-18" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-16" target="MODgsHCSX48ksGeitlAM-17">
+        <mxCell id="MODgsHCSX48ksGeitlAM-18" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-16" target="MODgsHCSX48ksGeitlAM-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="735" y="819.5" as="sourcePoint" />
             <mxPoint x="785" y="769.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-19" value="WriteOnly word&lt;br&gt;Command to sub-system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-19" value="WriteOnly word&lt;br&gt;Command to sub-system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="699.5" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-21" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Interface to&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Traction/Brake&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Modbus slave&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#BEABFF;strokeColor=#FF6A4D;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-21" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Interface to&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Traction/Brake&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Modbus slave&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#BEABFF;strokeColor=#FF6A4D;" parent="1" vertex="1">
           <mxGeometry x="920" y="660" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="955" y="530" as="sourcePoint" />
             <mxPoint x="955" y="530" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-24" value="Modbus Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-24" value="Modbus Master" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="530" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-25" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Task&lt;/strong&gt;&amp;nbsp;2&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Send Command&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Read Status&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Genset&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;10 Hz&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-25" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Task&lt;/strong&gt;&amp;nbsp;2&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Send Command&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Read Status&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Genset&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;10 Hz&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="710" y="440" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-26" value="Modbus Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-26" value="Modbus Master" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="877" y="530" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-27" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Task&lt;/strong&gt;&amp;nbsp;3&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Send Command&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Read Status&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Traction/brake&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;10 Hz&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-27" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Task&lt;/strong&gt;&amp;nbsp;3&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Send Command&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Read Status&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Traction/brake&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;10 Hz&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="877" y="440" width="143" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="770" width="490" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-32" value="Byte&lt;br&gt;Status of motors" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-32" value="Byte&lt;br&gt;Status of motors" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="335" y="779.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-33" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-36" target="MODgsHCSX48ksGeitlAM-36">
+        <mxCell id="MODgsHCSX48ksGeitlAM-33" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-36" target="MODgsHCSX48ksGeitlAM-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="335" y="839.5" as="sourcePoint" />
             <mxPoint x="385" y="789.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-34" value="Byte&lt;br&gt;Status of Tractions" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-34" value="Byte&lt;br&gt;Status of Tractions" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="415" y="779.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-35" value="Byte&lt;br&gt;Status of General" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-35" value="Byte&lt;br&gt;Status of General" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="779.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-36" value="Byte&lt;br&gt;Status of Reserved" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-36" value="Byte&lt;br&gt;Status of Reserved" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="495" y="779.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-37" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-35" target="MODgsHCSX48ksGeitlAM-36">
+        <mxCell id="MODgsHCSX48ksGeitlAM-37" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-35" target="MODgsHCSX48ksGeitlAM-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="735" y="909.5" as="sourcePoint" />
             <mxPoint x="785" y="859.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-38" value="ReadOnly word&lt;br&gt;Status from sub-system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-38" value="ReadOnly word&lt;br&gt;Status from sub-system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="789.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-39" value="Byte&lt;br&gt;Status of motors" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-39" value="Byte&lt;br&gt;Status of motors" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="335" y="849.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-40" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-43" target="MODgsHCSX48ksGeitlAM-43">
+        <mxCell id="MODgsHCSX48ksGeitlAM-40" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-43" target="MODgsHCSX48ksGeitlAM-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="335" y="909.5" as="sourcePoint" />
             <mxPoint x="385" y="859.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-41" value="Byte&lt;br&gt;Status of Tractions" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-41" value="Byte&lt;br&gt;Status of Tractions" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="415" y="849.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-42" value="Byte&lt;br&gt;Status of General" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-42" value="Byte&lt;br&gt;Status of General" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="849.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-43" value="Byte&lt;br&gt;Status of Reserved" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-43" value="Byte&lt;br&gt;Status of Reserved" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="495" y="849.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-44" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-42" target="MODgsHCSX48ksGeitlAM-43">
+        <mxCell id="MODgsHCSX48ksGeitlAM-44" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-42" target="MODgsHCSX48ksGeitlAM-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="735" y="979.5" as="sourcePoint" />
             <mxPoint x="785" y="929.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-45" value="WriteOnly word&lt;br&gt;Command to sub-system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-45" value="WriteOnly word&lt;br&gt;Command to sub-system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="859.5" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="739.5" width="490" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-62" value="Byte&lt;br&gt;Status of motors" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-62" value="Byte&lt;br&gt;Status of motors" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1235" y="749" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-63" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-66" target="MODgsHCSX48ksGeitlAM-66">
+        <mxCell id="MODgsHCSX48ksGeitlAM-63" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-66" target="MODgsHCSX48ksGeitlAM-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1235" y="809" as="sourcePoint" />
             <mxPoint x="1285" y="759" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-64" value="Byte&lt;br&gt;Status of Tractions" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-64" value="Byte&lt;br&gt;Status of Tractions" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1315" y="749" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-65" value="Byte&lt;br&gt;Status of General" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-65" value="Byte&lt;br&gt;Status of General" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1155" y="749" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-66" value="Byte&lt;br&gt;Status of Reserved" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-66" value="Byte&lt;br&gt;Status of Reserved" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1395" y="749" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-67" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-65" target="MODgsHCSX48ksGeitlAM-66">
+        <mxCell id="MODgsHCSX48ksGeitlAM-67" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-65" target="MODgsHCSX48ksGeitlAM-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1635" y="879" as="sourcePoint" />
             <mxPoint x="1685" y="829" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-68" value="ReadOnly word&lt;br&gt;Status from sub-system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-68" value="ReadOnly word&lt;br&gt;Status from sub-system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1015" y="759" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-69" value="Byte&lt;br&gt;Status of motors" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-69" value="Byte&lt;br&gt;Status of motors" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1235" y="819" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-70" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-73" target="MODgsHCSX48ksGeitlAM-73">
+        <mxCell id="MODgsHCSX48ksGeitlAM-70" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-73" target="MODgsHCSX48ksGeitlAM-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1235" y="879" as="sourcePoint" />
             <mxPoint x="1285" y="829" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-71" value="Byte&lt;br&gt;Status of Tractions" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-71" value="Byte&lt;br&gt;Status of Tractions" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1315" y="819" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-72" value="Byte&lt;br&gt;Status of General" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-72" value="Byte&lt;br&gt;Status of General" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1155" y="819" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-73" value="Byte&lt;br&gt;Status of Reserved" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-73" value="Byte&lt;br&gt;Status of Reserved" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1395" y="819" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-74" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-72" target="MODgsHCSX48ksGeitlAM-73">
+        <mxCell id="MODgsHCSX48ksGeitlAM-74" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-72" target="MODgsHCSX48ksGeitlAM-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1635" y="949" as="sourcePoint" />
             <mxPoint x="1685" y="899" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-75" value="WriteOnly word&lt;br&gt;Command to sub-system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="MODgsHCSX48ksGeitlAM-75" value="WriteOnly word&lt;br&gt;Command to sub-system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="829" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-76" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-30" target="WYhBp6qSRboD4L50h-0C-2">
+        <mxCell id="MODgsHCSX48ksGeitlAM-76" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-30" target="WYhBp6qSRboD4L50h-0C-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="620" as="sourcePoint" />
             <mxPoint x="710" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-77" value="" style="endArrow=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-31" target="WYhBp6qSRboD4L50h-0C-27">
+        <mxCell id="MODgsHCSX48ksGeitlAM-77" value="" style="endArrow=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-31" target="WYhBp6qSRboD4L50h-0C-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="620" as="sourcePoint" />
             <mxPoint x="710" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MODgsHCSX48ksGeitlAM-79" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MODgsHCSX48ksGeitlAM-21" target="WYhBp6qSRboD4L50h-0C-7">
+        <mxCell id="MODgsHCSX48ksGeitlAM-79" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MODgsHCSX48ksGeitlAM-21" target="WYhBp6qSRboD4L50h-0C-7" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="965" y="570" as="sourcePoint" />
             <mxPoint x="992.04" y="670.98" as="targetPoint" />
@@ -302,6 +302,90 @@
               <mxPoint x="960" y="780" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Task&lt;/strong&gt;&amp;nbsp;A&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;HIM （general)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Read Data&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Send Command&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;10 Hz&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="230" width="410" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mezLCpuCVwXx2FHl1BCc-9" target="mezLCpuCVwXx2FHl1BCc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-9" value="ReadOnly Json Data&lt;br&gt;for machine Status&lt;br&gt;&amp;nbsp;from Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="239.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mezLCpuCVwXx2FHl1BCc-16" target="mezLCpuCVwXx2FHl1BCc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-16" value="WriteOnly Json Data to&amp;nbsp;&lt;br&gt;Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="315" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-17" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Static Strcut Object{&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&quot;Name&quot;:XXX,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&quot;Status&quot;:[],&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="234.5" width="120" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-20" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;entryX=0.477;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mezLCpuCVwXx2FHl1BCc-20">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="622" y="210" as="sourcePoint" />
+            <mxPoint x="850" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.128;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WYhBp6qSRboD4L50h-0C-1" target="mezLCpuCVwXx2FHl1BCc-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="690" y="360" as="sourcePoint" />
+            <mxPoint x="632.01" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-23" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Task&lt;/strong&gt;&amp;nbsp;B&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Cloud function&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;MQTT data update&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;group / 5mins&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="720" y="210" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-24" value="Cloud" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.cloud;" vertex="1" parent="1">
+          <mxGeometry x="780" y="70" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mezLCpuCVwXx2FHl1BCc-24">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="785" y="208" as="sourcePoint" />
+            <mxPoint x="785.01" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-28" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0.462;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mezLCpuCVwXx2FHl1BCc-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="370" as="sourcePoint" />
+            <mxPoint x="830" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-29" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Task&lt;/strong&gt;&amp;nbsp;C&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;OTA Check&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;once / Reboot&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="870" y="210" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-30" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0.462;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="934.58" y="370" as="sourcePoint" />
+            <mxPoint x="934.6400000000002" y="302.97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mezLCpuCVwXx2FHl1BCc-29" target="mezLCpuCVwXx2FHl1BCc-24">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="795" y="218" as="sourcePoint" />
+            <mxPoint x="795.0099999999998" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-33" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Task&lt;/strong&gt;&amp;nbsp;D&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Team manager&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Partner detection&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;and setup&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;once / 5~10 s&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="1015" y="210" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/round-varieties/60/Rounded_-_High_Ultra_Colour16_-_Traffic_Lights-128.png" vertex="1" parent="1">
+          <mxGeometry x="1042.5" y="82.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mezLCpuCVwXx2FHl1BCc-33" target="mezLCpuCVwXx2FHl1BCc-34">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1079.5800000000002" y="207.9999999999999" as="sourcePoint" />
+            <mxPoint x="1070" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mezLCpuCVwXx2FHl1BCc-37" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Task&lt;/strong&gt;&amp;nbsp;E&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Fatal failure!&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Wanring!&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;detection&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;once / 60 s&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="1250" y="350" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
