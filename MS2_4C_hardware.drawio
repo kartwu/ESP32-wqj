@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-01T01:44:56.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="y1WyqWTuM4fon3mml_UV" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-01T06:29:28.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="KJeNfs605N4sxnw9D13J" version="13.8.8" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -413,11 +413,65 @@
         <mxCell id="mezLCpuCVwXx2FHl1BCc-44" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.management_console;" parent="1" vertex="1">
           <mxGeometry x="930" y="850.3" width="40" height="27.2" as="geometry" />
         </mxCell>
-        <mxCell id="4AuLlg8-YUYxygczz6yq-1" value="&lt;span&gt;Byte&amp;nbsp;&lt;/span&gt;&lt;span&gt;Status&lt;/span&gt;&lt;span&gt;&amp;nbsp;ERR_t:&lt;br&gt;&lt;div&gt;ABCDEFGH&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1&lt;/div&gt;&lt;div&gt;A: normal&amp;nbsp; &amp;nbsp; &amp;nbsp; ;&amp;nbsp; &amp;nbsp;abnormal&lt;/div&gt;&lt;div&gt;B: no change;&amp;nbsp; &amp;nbsp;New status&lt;/div&gt;&lt;div&gt;C&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="157" y="1000" width="210" height="130" as="geometry" />
+        <mxCell id="4AuLlg8-YUYxygczz6yq-1" value="&lt;span&gt;Byte&amp;nbsp;&lt;/span&gt;&lt;span&gt;Status&lt;/span&gt;&lt;span&gt;&amp;nbsp;ERR_t:&lt;br&gt;&lt;div&gt;0123 4567&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1&lt;/div&gt;&lt;div&gt;0: normal&amp;nbsp; &amp;nbsp; &amp;nbsp; ;&amp;nbsp; &amp;nbsp;abnormal&lt;/div&gt;&lt;div&gt;1: no change;&amp;nbsp; &amp;nbsp;New status&lt;/div&gt;&lt;div&gt;2&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="370" y="1000" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="4AuLlg8-YUYxygczz6yq-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Public MUTEX&lt;br&gt;Launch when any task tries to read/write global data.&lt;br&gt;&lt;br&gt;Globe data: machine Object { ....}&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="4AuLlg8-YUYxygczz6yq-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Public MUTEX&lt;br&gt;Launch when any task tries to read/write global data.&lt;br&gt;&lt;br&gt;Globe data: machine Object { ....}&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="145" y="40" width="345" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-1" value="//&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="980" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EfWewvMt2leBdKbv7eXd-2" target="EfWewvMt2leBdKbv7eXd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-2" value="&lt;span style=&quot;text-align: left&quot;&gt;Read Status Word.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EfWewvMt2leBdKbv7eXd-3" target="EfWewvMt2leBdKbv7eXd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EfWewvMt2leBdKbv7eXd-3" target="EfWewvMt2leBdKbv7eXd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-3" value="Verify Status" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="910" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EfWewvMt2leBdKbv7eXd-4" target="EfWewvMt2leBdKbv7eXd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-4" value="Send command Word" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="990" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-5" value="Return ERR Code" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="915" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-9" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="910" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-10" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="970" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EfWewvMt2leBdKbv7eXd-15" target="EfWewvMt2leBdKbv7eXd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-15" value="Wait for Status return" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1070" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EfWewvMt2leBdKbv7eXd-21" target="EfWewvMt2leBdKbv7eXd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EfWewvMt2leBdKbv7eXd-21" target="EfWewvMt2leBdKbv7eXd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-21" value="Verify Status&lt;br&gt;&amp;nbsp;OK?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-22" value="Return ERR Code" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EfWewvMt2leBdKbv7eXd-23" value="Return ERR Code&lt;br&gt;OK" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1239" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
