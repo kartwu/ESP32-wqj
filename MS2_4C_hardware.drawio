@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T02:35:08.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="oJlVqJhKRsRh20cxCso3" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T02:39:10.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="L2h0mI-9n6jacYJT5k64" version="13.8.8" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -397,6 +397,21 @@
             <mxPoint x="1090" y="220" as="sourcePoint" />
             <mxPoint x="1225" y="189" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s9yOTMqDM9RlX2NOhxUY-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Keyamoon-IcoMoon--limited/32/meter-slow.png" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="s9yOTMqDM9RlX2NOhxUY-15" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.volume;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="82" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9yOTMqDM9RlX2NOhxUY-16" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="82" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s9yOTMqDM9RlX2NOhxUY-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.switch_on;fillColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="563" y="130" width="57" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="s9yOTMqDM9RlX2NOhxUY-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.switch_on;fillColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="563" y="117" width="57" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
