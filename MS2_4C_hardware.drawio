@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T00:28:46.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="frIycRwpA0dwTShLku4h" version="13.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-15T01:49:09.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_QcaDDFFlHBzcGI2-BYS" version="13.10.4" type="github" pages="2">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -46,12 +46,12 @@
             <mxPoint x="859" y="1011.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WYhBp6qSRboD4L50h-0C-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.564;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MODgsHCSX48ksGeitlAM-27" target="MODgsHCSX48ksGeitlAM-21" edge="1">
+        <mxCell id="WYhBp6qSRboD4L50h-0C-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.564;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="s9yOTMqDM9RlX2NOhxUY-19" target="MODgsHCSX48ksGeitlAM-21" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1389" y="675" as="sourcePoint" />
             <mxPoint x="1129" y="1021.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1409" y="715" />
+              <mxPoint x="1400" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WYhBp6qSRboD4L50h-0C-20" value="Modbus Master" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="804" y="644.5" width="130" height="30" as="geometry" />
+          <mxGeometry x="804" y="680" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WYhBp6qSRboD4L50h-0C-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WYhBp6qSRboD4L50h-0C-20" target="WYhBp6qSRboD4L50h-0C-2" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WYhBp6qSRboD4L50h-0C-25" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Task&lt;/strong&gt;&amp;nbsp;1&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Send Command&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Read Status&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Grinding&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;10 Hz&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="804" y="554.5" width="130" height="90" as="geometry" />
+          <mxGeometry x="804" y="590" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WYhBp6qSRboD4L50h-0C-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -160,19 +160,19 @@
         </mxCell>
         <mxCell id="MODgsHCSX48ksGeitlAM-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1389" y="645" as="sourcePoint" />
-            <mxPoint x="1389" y="645" as="targetPoint" />
+            <mxPoint x="1397.5" y="680.5" as="sourcePoint" />
+            <mxPoint x="1397.5" y="680.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MODgsHCSX48ksGeitlAM-24" value="Modbus Master" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="949" y="645" width="130" height="30" as="geometry" />
+          <mxGeometry x="949" y="680.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MODgsHCSX48ksGeitlAM-25" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Task&lt;/strong&gt;&amp;nbsp;2&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Send Command&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Read Status&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Genset&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;System&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;10 Hz&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="949" y="555" width="130" height="90" as="geometry" />
+          <mxGeometry x="949" y="590.5" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MODgsHCSX48ksGeitlAM-27" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;strong&gt;Task&lt;/strong&gt;&amp;nbsp;3&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Send IO AD command&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;&amp;nbsp;Read IO AD Status&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Traction / E brake&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;10 Hz&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="1312.5" y="555" width="143" height="90" as="geometry" />
+          <mxGeometry x="1321" y="590.5" width="143" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MODgsHCSX48ksGeitlAM-38" value="&lt;font style=&quot;font-size: 12px&quot;&gt;ReadOnly Register&lt;br&gt;Status from&amp;nbsp;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-21ef3281-7fff-70f0-6846-91d49821e3a2&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;EMCP 4&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;.&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1139" y="893.5" width="150" height="30" as="geometry" />
@@ -414,7 +414,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9yOTMqDM9RlX2NOhxUY-19" value="Standard IOs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1317.5" y="645" width="130" height="30" as="geometry" />
+          <mxGeometry x="1326" y="680.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AbVuK8BP1ybf4Cp_KeGt-2" value="&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-9c83558e-7fff-61c4-0a5a-392db5b9a32b&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;border: none ; display: inline-block ; overflow: hidden ; width: 63px ; height: 108px&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/eQ-fao-xFtMZdk97P4193HghMFP8vIKrzm9ID9HFP0No-gUXfgVnC3JgqbnlHDrsEKWEEjv30rwpPajOZx8u0Cb5l1eiIcVFMIDQVcmyqi4grFwmj2AWEVrGK8wlc76Z9Dt0_bEL&quot; width=&quot;303.408&quot; height=&quot;169.5&quot; style=&quot;margin-left: -83.664px ; margin-top: -31.500000000000004px&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1209" y="157.5" width="90" height="130" as="geometry" />
@@ -424,6 +424,24 @@
         </mxCell>
         <mxCell id="AbVuK8BP1ybf4Cp_KeGt-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Keyamoon-IcoMoon--limited/32/meter-slow.png" parent="1" vertex="1">
           <mxGeometry x="812" y="195" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5wdUcm-SCWzxwiO6f2sR-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0.462;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1014" y="590" as="sourcePoint" />
+            <mxPoint x="1013.5600000000003" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wdUcm-SCWzxwiO6f2sR-2" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0.462;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1392.44" y="590" as="sourcePoint" />
+            <mxPoint x="1392.0000000000005" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wdUcm-SCWzxwiO6f2sR-3" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0.462;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="868.94" y="590" as="sourcePoint" />
+            <mxPoint x="868.5000000000005" y="535" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
